@@ -1,4 +1,4 @@
-# Bookstore fullstack project - Backend
+# BookTracker fullstack project - Backend
 
 - Used Spring Boot to develop the server side of the application
 - The app interacts with a PostgreSQL database through Hibernate and JPA
